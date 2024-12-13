@@ -1,4 +1,4 @@
-# 🌍 EnergyEconomyInsights
+# 🌍 Energy economy insights
 
 ## 🛠️ Overview
 Welcome to **EnergyEconomyInsights**, a project designed to unlock the secrets behind global energy trends, economic growth, and sustainability 🌱. By diving into datasets from the **United Nations**, **World Bank**, and **Scimago Journal Rankings**, we uncover insights that help shape a cleaner, more efficient future. 💡✨
